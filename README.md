@@ -1,4 +1,4 @@
-# Autonomous RL Baselines
+# Autonomous RL via MEDAL
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/rlworkgroup/metaworld/blob/master/LICENSE)
 
 ## Setup
